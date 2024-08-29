@@ -1,3 +1,4 @@
+// package authplaceholder provides a quick and dirty username/password prompt for your prototype webapps.
 package authplaceholder
 
 import (
