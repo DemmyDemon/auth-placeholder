@@ -1,0 +1,12 @@
+{
+    "cookie_name"     : "authentimication",
+    "cookie_lifetime" : "336h",
+    "validate_path"   : "/auth",
+    "void_path"       : "/logout",
+    "auth_title"      : "Please identify yourself",
+    "stylesheet"      : "/provide_your_own.css",
+    "verbose"         : false,
+    "users" : [
+        { "username":"demmy", "password":"$2a$14$rG6FsMBgPRcWT7t/rsIHrOCIfupgh9ih6vrT1IJjx.ncP8hhDJiS6" }
+    ]
+}
